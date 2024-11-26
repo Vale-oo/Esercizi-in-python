@@ -1,6 +1,6 @@
 import random
 
-
+#commento
 
 nome = input ("Come ti chiami? ")
 
